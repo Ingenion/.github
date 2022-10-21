@@ -6,4 +6,4 @@ This statement has proven to be all too true when it comes to design. The key to
 
 ### Quick Access
 
-*Coming soon!*
+[GitHub Pages](https://ingenion.github.io)
